@@ -1,0 +1,13 @@
+html {
+  background-color: #0f0f0f;
+  color: white;
+}
+li::marker {
+  color: red;
+}
+
+li a {
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+}
